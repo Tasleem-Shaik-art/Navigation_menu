@@ -1,0 +1,7 @@
+const links = document.querySelectorAll("nav a");
+
+links.forEach(link => {
+    link.addEventListener("click", function() {
+        console.log("Navigated to " + this.textContent);
+    });
+});
