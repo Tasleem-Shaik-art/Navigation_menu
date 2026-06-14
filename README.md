@@ -1,0 +1,1 @@
+This project is a responsive navigation menu built using HTML, CSS, and JavaScript. The menu allows users to navigate smoothly between different sections of the webpage, including Home, About, Services, and Contact.
